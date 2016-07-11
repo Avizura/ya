@@ -1,0 +1,20 @@
+{
+  "name": "yandex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task2.js",
+  "scripts": {
+    "test": "mocha ./dist/task2/tests"
+  },
+  "author": "michael.dovzhenko@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^2.3.2",
+    "jade": "^1.11.0",
+    "chai": "*",
+    "mocha": "*"
+  }
+}
